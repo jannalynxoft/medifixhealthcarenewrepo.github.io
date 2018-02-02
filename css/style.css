@@ -1552,7 +1552,7 @@ td .ui-state-active, td .ui-state-hover { background: #2e3641 !important; }
 /*=== Screen Size = 240, 320, 360, 480, 568 ===*/
 @media (min-width: 240px) and (max-width: 568px) { /* Home Page Start */
   .video-modal .modal-content iframe { height: 300px; }
-  .parallax-window { height: 800px; }
+  /*.parallax-window { height: 800px; }*/
   /* Home Page End */
   /* Modal Start */
   .login-modal .modal-dialog { width: auto; }
